@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-naturalorderby",
+  "homepage": "https://github.com/Citymagine/angularjs-naturalorderby",
+  "authors": [
+    "Cyril CHAPON <cyril@citymagine.com>"
+  ],
+  "description": "Native orderBy filter decorated with natural sorting",
+  "main": "index.js",
+  "keywords": [
+    "orderby",
+    "angularjs",
+    "naturalsort"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
