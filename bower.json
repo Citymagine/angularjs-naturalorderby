@@ -22,5 +22,10 @@
   "dependencies": {
     "angular": "^1.6.6",
     "javascript-natural-sort": "https://github.com/overset/javascript-natural-sort.git#737133249531169aeb94c701e536d405fa077b25"
+  },
+  "overrides": {
+    "javascript-natural-sort": {
+      "main": "naturalSort.js"
+    }
   }
 }
